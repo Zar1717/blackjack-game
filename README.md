@@ -25,7 +25,7 @@ This is a Python implementation of the classic casino game Blackjack. The game f
 ## How to Run
 1. Clone this repository:
 bash
-   git clone https://github.com/your-username/blackjack-game.git
+   git clone https://github.com/Zar1717/blackjack-game.git
 2. Navigate to the project folder:
    
 bash
